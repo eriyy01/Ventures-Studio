@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#0f1419"/>
+<rect x="80" y="80" width="72" height="72" fill="#1c69d4"/>
+<path d="M92 96 L116 136 L140 96" stroke="#fff" stroke-width="7" fill="none" stroke-linecap="square" stroke-linejoin="miter"/>
+<text x="172" y="128" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="800" fill="#ffffff" letter-spacing="-0.5">Venture Studios</text>
+<text x="80" y="280" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800" fill="#ffffff" letter-spacing="-2">Search brings them in.</text>
+<text x="80" y="362" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800" fill="#7db3f5" letter-spacing="-2">Email brings them back.</text>
+<text x="80" y="430" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="400" fill="#bbbbbb" letter-spacing="2">SEO · SOCIAL · CONTENT · EMAIL</text>
+<rect x="80" y="480" width="220" height="56" fill="#1c69d4"/>
+<text x="104" y="516" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" letter-spacing="1">Built for growth</text>
+</svg>

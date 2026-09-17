@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://venturestudios.co/sitemap.xml
+Sitemap: https://ventures-studio.vercel.app/sitemap.xml
